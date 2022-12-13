@@ -22,7 +22,13 @@ The sensor picks up the reflection of the pulse, this being the travel time adde
 
     reflectionTime = 2 x pulseTimeCm
     reflectionTime = 2 x 29.4117647059 = 58.823529412 𝜇s
+
+## Schematic Diagram
+
+<img src=".github/images/HC_SR04.png" width="920px">
+
 ## Licença
+
 
 [MIT](https://choosealicense.com/licenses/mit/)
 
